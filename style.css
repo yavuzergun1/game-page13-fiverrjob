@@ -218,5 +218,7 @@ header .back {
   }
   .info {
     width: 50px;
+    font-size: 0.5rem;
+    padding-top: 3.5px;
   }
 }/*# sourceMappingURL=style.css.map */
